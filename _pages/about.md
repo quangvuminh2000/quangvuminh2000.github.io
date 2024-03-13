@@ -22,7 +22,7 @@ My name is Quang (*Vũ Minh Quang*), I would rather being called by my nickname:
 
 I'm a graduate Computer Science student at Ho Chi Minh City University of Technology on 2022. Experience through fundamental subjects ranging from <span style="color:#91AAFF">*Computer Architecture, Data Structures and Algorithms, Statistics*</span> upto interesing ones likes: <span style="color:#91AAFF">*Cryptographic, Principle of Programming Language, Machine Learning, etc.*</span>
 
-I'm currently working at FPT Telecom as a Data Scientist from August 2022 (aprox. 1yr 8mos). I helped build a [Python package](https://pypi.org/project/preprocessing-pgp/) consists of *end-to-end LLMs* and *modern AI systems* to clean/format customer profile infomation such as *Vietnamese names, phones, emails, card numbers, addresses, etc.* I also build an end-to-end website for labelling medical reports for Long Chau medical store [long-chau-labelling](lc-labelling-application.onrender.com).
+I'm currently working at FPT Telecom as a Data Scientist from August 2022 (aprox. 1yr 8mos). I helped build a [Python package](https://pypi.org/project/preprocessing-pgp/) consists of *end-to-end LLMs* and *modern AI systems* to clean/format customer profile infomation such as *Vietnamese names, phones, emails, card numbers, addresses, etc.* I also build an end-to-end website for labelling medical reports for Long Chau medical store [long-chau-labelling](https://lc-labelling-application.onrender.com/auth/login).
 
 
 

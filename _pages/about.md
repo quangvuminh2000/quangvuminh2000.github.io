@@ -2,24 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist. Computer Science Graduate. 📞 (+84) 889845985. 📍 Ho Chi Minh, Vietnam. 📧 quangvm2000@gmail.com
+subtitle: Data Scientist, FPT Telecom, Ho Chi Minh, Viet Nam
+ | Bachelor Degree of Computer Science, Ho Chi Minh City University of Technology, Ho Chi Minh, Viet Nam
 
 profile:
   align: right
   image: quangvm2000_profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Motivative Researcher<p>
+    <p>Lives in Vinhomes Grand Park</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Quang (*Vũ Minh Quang*), I would rather being called by my nickname: <span style="color:#F87E7E">*Henry Quang*</span>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a graduate Computer Science student at Ho Chi Minh City University of Technology on 2022. Experience through fundamental subjects ranging from <span style="color:#91AAFF">*Computer Architecture, Data Structures and Algorithms, Statistics*</span> upto interesing ones likes: <span style="color:#91AAFF">*Cryptographic, Principle of Programming Language, Machine Learning, etc.*</span>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm currently working at FPT Telecom as a Data Scientist from August 2022 (aprox. 1yr 8mos). I helped build a [Python package](https://pypi.org/project/preprocessing-pgp/) consists of *end-to-end LLMs* and *modern AI systems* to clean/format customer profile infomation such as *Vietnamese names, phones, emails, card numbers, addresses, etc.* I also build an end-to-end website for labelling medical reports for Long Chau medical store [long-chau-labelling](lc-labelling-application.onrender.com).
+
+
+
+
+
+

@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Data Scientist. Computer Science Graduate. 📞 (+84) 889845985. 📍 Ho Chi Minh, Vietnam. 📧 quangvm2000@gmail.com
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: quangvm2000_profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>

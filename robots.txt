@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://quangvuminh2000.profile/sitemap.xml
+Sitemap: https://quangvuminh2000.github.io/sitemap.xml
